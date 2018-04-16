@@ -1,2 +1,9 @@
 language: node_js
 node_js: node
+deploy: 
+  provider: heroku
+  api_key:
+    secure: w1Aa8XX6vjEtOx3lxUFXbJR4zWxWtEFS8UjK2+oSYsW74fOCBDxdG6A62y91CwR18uD3NenlfRMWVkRLWvRwMVjXF4z7PEclSPXEtvzAzQ8z2p/S18/j3irGhXxogjD56rrreffZeNYmHMNa0xO5esksLMpFhijXGqrcUqAwNF82lgaKFllo0qmZ5P3tUrgEJ0yfEhQkjuzG8fN6VvjMSjdHs0hkg6GnQj8kvuGohO/YS8Mi4QjFes816+lNCFaZYJq5pezfIOcJaTPJweY6J6NHoLd8j8EygLtLPa3ZZqG50bjmfjxSo13BMA9WFCeKKO7+SgM2idNE63LKJt1vHLcUvMkbZAMlBl2FQI0fgxpsu6Z5sOOG5y0HsTL4SEwiOkJMArVetUY+eUS/8v1mep24kyp0Y5Rf0wNvwn76pMa8g5A709P4LxvacN6KVJ6tKggmi5w9jhxsREos/mjYIuNudrOuWYI5SRDIBuMmE/zuqFIoyVvW8XqHnBMxmaxVyWoQY77fwBkziThPoAbDIHsCxE+4yeMuKsFBs9N/YBzonahlFUdhvGkgh/01ZSw7wQBeW1F0qrt6rOX1hOWg/ffQLd8ft9qvV9t+E/7ZjLMCPccmDSNxwghchxwnWmQ0m7Uyf35FEzfHZc/B/Yh5yr5nRrIZJ3JCkARWJDmo+GY=
+  app: guarded-reef-20417
+  on:
+    repo: rosaxny/blog-posts
