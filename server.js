@@ -4,7 +4,7 @@ let app = express();
 const blogRouter = require('./blogRouter');
 
 
-app.use(express.static('public'));
+app.use(express.static('views'));
 app.use('/blog-posts', blogRouter);
 
 
