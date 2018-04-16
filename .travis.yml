@@ -4,6 +4,6 @@ deploy:
   provider: heroku
   api_key:
     secure: XfauZwrQ6djM/sQs3rB+QOzZGbkbACfIUfxwYeJhopTl8lEckjXqfjYUpNezJi5LBzeCquIjjlZY0fYTpgdNv6qasCzng7j8AtnA352Apls/G4Y0eXlBETov55zBA7LB+AO7gmOr0yAuHP7DWej5BYA11dhxyooq+643Q5tclDPGYxApMJRCx29fIMvsUPVdM3i9klod0GNHchm3c+JiP6eWFkfoNVWUgvxjhQCOiHcpy7iezEA/skE7OMgSN+PYeUKFCJxB1tZbc5MRPjsDrUJUPPVMh6QeVMsw/ULcbp0kgIkcxcwcJWkiGXVhbuUTEqS/VfTdNBijELrOWqVaNOlF9C4zfaS2fFdWLcMKvgNVmguBxhCfrlduTqvmJFEhYgjSY+kipV8/R/OST1FE61RLQ2TY/hfZhJ05sQWvFlW4oXbBoxv2rY4cYedAQT/y6VrBHoR4EE6jip8WkW2386jvcGeZ6aO127LRtaUI6550PxcYhM+hHdNXIgZJ6/CYOh6vjxCkCUwJxExGEkYRwxAQOzEFf+mMWrDFvOIHHZNqfrsmW+Va+TClC45ulk7oruFbzywvcJanUD2DG83VgDhlrenOMmz1tki6S0ddqiU5rTcu1EAGN/yDi3dmTGOBGjoqPaNBUXn0sTEbTunjbbsNPlL0FXFhf8pz9+IB6JQ=
-  app: blog-posts
+  app: bsleepy-caverns-20978
   on:
-    repo: rosaxny/sleepy-caverns-20978
+    repo: rosaxny/blog-posts
